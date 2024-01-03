@@ -12,7 +12,7 @@ Tengo 36 años y resido en Buenos Aires, Argentina. Graduado como Desarrollador 
 
 - 🔄 Experiencia aplicando la metodología Scrum
 
-#### Puedes contactarme en [a.ignacio.leiva@gmail.com](mailto:a.ignacio.leiva@gmail.com).
+#### Puedes contactarme en [a.ignacio.leiva@gmail.com](mailto:a.ignacio.leivaleiva@gmail.com).
 
 #### [Visita mi LinkedIn](https://www.linkedin.com/in/ignacio-leiva/)
 
