@@ -1,6 +1,6 @@
 ### ¡Hola, soy Abel Ignacio Leiva! 👋
 
-Tengo 36 años y resido en Buenos Aires, Argentina. Graduado como Desarrollador Fullstack en Soy Henry Bootcamp y como Desarrollador Backend Java del curso en Desarrollo Backend Java-Spring Boot de la Universidad Nacional de Jujuy.
+Tengo 36 años y resido en Buenos Aires, Argentina. Graduado como Desarrollador Fullstack en Soy Henry Bootcamp y como Desarrollador Backend Java del curso de Desarrollo Backend Java-Spring Boot de la Universidad Nacional de Jujuy.
 
 #### Experiencia en Desarrollo:
 
