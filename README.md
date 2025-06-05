@@ -1,19 +1,17 @@
-### ¡Hola, soy Abel Ignacio Leiva! 👋
+# ¡Hola! Soy Abel Ignacio Leiva 👋
 
-Tengo 36 años y resido en Buenos Aires, Argentina. Graduado como Desarrollador Fullstack en Soy Henry Bootcamp y como Desarrollador Backend Java del curso de Desarrollo Backend Java-Spring Boot de la Universidad Nacional de Jujuy.
+Desarrollador Full Stack con base en Buenos Aires, Argentina.
 
-#### Experiencia en Desarrollo:
+Trabajo con tecnologías como JavaScript, React, Node.js, Express, Java, Spring Boot, SQL y bases de datos relacionales y no relacionales. También tengo experiencia utilizando metodologías ágiles como Scrum y herramientas de control de versiones con Git.
 
-- 🚀 JavaScript, React, NodeJS, Express
-- 💻 Sequelize, Redux, CSS, HTML
-- ☕ Java, Spring Boot, SQL, MySQL
+Tecnologías principales:
+- 🟦 JavaScript, React, Node.js, Express
+- ☕  SQL, MySQL, Sequelize, Redux, MongoDB
+- 💡 HTML, CSS
 
-#### Metodologías:
+Estoy abierto a oportunidades laborales donde pueda seguir desarrollando soluciones web y aprendiendo en equipo.
 
-- 🔄 Experiencia aplicando la metodología Scrum
+📩 Contacto: a.ignacio.leivaleiva@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-leiva/) | [GitHub](https://github.com/Abel-Leiva)
 
-#### Puedes contactarme en [a.ignacio.leivaleiva@gmail.com](mailto:a.ignacio.leivaleiva@gmail.com).
-
-#### [Visita mi LinkedIn](https://www.linkedin.com/in/ignacio-leiva/)
-
-¡Gracias por visitar mi perfil! 🌟
+Gracias por visitar mi perfil.
