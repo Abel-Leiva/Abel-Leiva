@@ -2,7 +2,7 @@
 
 Desarrollador Full Stack con base en Buenos Aires, Argentina.
 
-Trabajo con tecnologías como JavaScript, React, Node.js, Express, Java, Spring Boot, SQL y bases de datos relacionales y no relacionales. También tengo experiencia utilizando metodologías ágiles como Scrum y herramientas de control de versiones con Git.
+Trabajo con tecnologías como JavaScript, React, Node.js, Express, SQL y bases de datos relacionales y no relacionales. También tengo experiencia utilizando metodologías ágiles como Scrum y herramientas de control de versiones con Git.
 
 Tecnologías principales:
 - 🟦 JavaScript, React, Node.js, Express
