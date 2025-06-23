@@ -19,6 +19,7 @@ Tecnologías que manejo:
 Estoy en búsqueda de mi primera oportunidad laboral en el mundo IT, donde pueda seguir creciendo, aportar y aprender junto a un equipo.
 
 📩 Contacto: a.ignacio.leivaleiva@gmail.com
-🔗 LinkedIn | GitHub
+🔗 [Portfolio](https://abel-leiva.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ignacio-leiva/) | [GitHub](https://github.com/Abel-Leiva)
+
 
 Gracias por pasar por mi perf
