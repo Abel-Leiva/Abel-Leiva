@@ -1,17 +1,24 @@
-# ¡Hola! Soy Abel Ignacio Leiva 👋
+¡Hola! Soy Abel Ignacio Leiva 👋
+Desarrollador web en formación, de Buenos Aires, Argentina.
 
-Desarrollador Full Stack con base en Buenos Aires, Argentina.
+Mis principales herramientas son JavaScript y TypeScript, tanto para frontend como backend, usando tecnologías como React, Node.js y Express. Actualmente estoy aprendiendo C# y .NET, y explorando Azure como solución en la nube.
 
-Trabajo con tecnologías como JavaScript, React, Node.js, Express, SQL y bases de datos relacionales y no relacionales. También tengo experiencia utilizando metodologías ágiles como Scrum y herramientas de control de versiones con Git.
+También tengo conocimientos en bases de datos relacionales y no relacionales, control de versiones con Git y metodologías ágiles como Scrum. Sigo practicando y desarrollando proyectos personales para mejorar día a día.
 
-Tecnologías principales:
-- 🟦 JavaScript, React, Node.js, Express
-- ☕  SQL, MySQL, Sequelize, Redux, MongoDB
-- 💡 HTML, CSS
+Tecnologías que manejo:
+🟨 JavaScript, TypeScript, React, Node.js, Express
 
-Estoy abierto a oportunidades laborales donde pueda seguir desarrollando soluciones web y aprendiendo en equipo.
+🟦 C#, .NET, Azure
 
-📩 Contacto: a.ignacio.leivaleiva@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-leiva/) | [GitHub](https://github.com/Abel-Leiva)
+🗃️ PostgreSQL, MySQL, Sequelize, MongoDB
 
-Gracias por visitar mi perfil.
+🎨 HTML, CSS, Tailwind CSS
+
+🔧 Git, GitHub, Scrum
+
+Estoy en búsqueda de mi primera oportunidad laboral en el mundo IT, donde pueda seguir creciendo, aportar y aprender junto a un equipo.
+
+📩 Contacto: a.ignacio.leivaleiva@gmail.com
+🔗 LinkedIn | GitHub
+
+Gracias por pasar por mi perf
