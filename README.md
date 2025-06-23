@@ -22,4 +22,4 @@ Estoy en búsqueda de mi primera oportunidad laboral en el mundo IT, donde pueda
 🔗 [Portfolio](https://abel-leiva.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ignacio-leiva/) | [GitHub](https://github.com/Abel-Leiva)
 
 
-Gracias por pasar por mi perf
+Gracias por pasar por mi perfil.
